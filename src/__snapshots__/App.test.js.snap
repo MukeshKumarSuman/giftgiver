@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Module Render properly 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Gift Givere
+  </h1>
+  <div
+    className="gift-list"
+  />
+  <Button
+    active={false}
+    className="btn-add"
+    disabled={false}
+    onClick={[Function]}
+    type="button"
+    variant="primary"
+  >
+    Add Gift
+  </Button>
+</div>
+`;
